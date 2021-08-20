@@ -1,2 +1,4 @@
-# GRIP-T1
-Prediction using Supervised ML. Predict the percentage of an student based on the no. of study hours.
+#THE SPARKS FOUNDATION
+# GRIP-Task 1
+Prediction using Supervised ML. 
+Predict the percentage of an student based on the no. of study hours. by using sklearn 
